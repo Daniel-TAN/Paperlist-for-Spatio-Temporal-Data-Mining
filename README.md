@@ -9,7 +9,7 @@
 
 
 ## context-aware 
-* SERM: A Recurrent Model for Next Location Prediction in Semantic Trajectories,[CIKM],[2018]
+* SERM: A Recurrent Model for Next Location Prediction in Semantic Trajectories, CIKM,[2018]
 
 ## geo enhanced
 
