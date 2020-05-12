@@ -20,9 +20,7 @@
 * GeoMF: Joint Geographical Modeling and Matrix Factorization for Point-of-Interest Recommendation, KDD, [2014]
 * Geo-ALM: POI Recommendation by Fusing Geographical Information and Adversarial Learning Mechanism, IJCAI, [2019]
 ### Social influence enhanced
-* Explainable Recommendation: A Survey and New Perspectives [2018] [[__PDF__]](https://arxiv.org/pdf/1804.11192.pdf)
-* Sequence-Aware Recommender Systems [2018] [[__PDF__]](https://arxiv.org/pdf/1802.08452.pdf)
-* DeepRec: An Open-source Toolkit for Deep Learning based Recommendation [IJCAI 2019] [[__PDF__]](https://arxiv.org/pdf/1905.10536.pdf)
 
-##Applications
+
+## Applications
 * Mining Points-of-Interest for Explaining Urban Phenomena: A Scalable Variational Inference Approach, WWW, [2020]
