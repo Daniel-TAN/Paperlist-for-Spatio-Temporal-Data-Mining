@@ -13,7 +13,7 @@
 * SERM: A Recurrent Model for Next Location Prediction in Semantic Trajectories, CIKM, [2018]
 * A Category-Aware Deep Model for Successive POI Recommendation on Sparse Check-in Data, WWW, [2020]
 * Next Point-of-Interest Recommendation on Resource-Constrained Mobile Devices, WWW,[2020]
-* A Contextual Attention Recurrent Architecture for Context-Aware Venue Recommendation [[_PDF_] https://dl.acm.org/doi/pdf/10.1145/3209978.3210042)]
+* A Contextual Attention Recurrent Architecture for Context-Aware Venue Recommendation [[__PDF__] https://dl.acm.org/doi/pdf/10.1145/3209978.3210042)]
 ### Geographical influence enhanced
 * GeoMF: Joint Geographical Modeling and Matrix Factorization for Point-of-Interest Recommendation, KDD, [2014]
 
