@@ -1,4 +1,4 @@
-# SpatioTemporal Mining Paperlist 
+# Spatio-Temporal data Mining Paperlist 
 
 ## Survey Papers
 * A Survey of Point-of-Interest Recommendation in Location-Based Social Networks, AAAI workshop,[2016] [[__PDF__](https://www.aaai.org/ocs/index.php/WS/AAAIW15/paper/viewFile/10132/10253)]
